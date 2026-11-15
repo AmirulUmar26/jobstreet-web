@@ -8,9 +8,9 @@
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | | Add acceptance criteria to each user story | | Done |
-| #2 | | Number the requirements and link each story to one | | Done |
-| #3 | |Add structure and roadmap to the README | | Done |
+| #1 | Add acceptance criteria to each user story | Done |
+| #2 | Number the requirements and link each story to one | Done |
+| #3 | Add structure and roadmap to the README | Done |
 
 ### Daily standup notes
 - Standup 1: [what I will do now / what could block me]
