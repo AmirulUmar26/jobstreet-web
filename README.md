@@ -23,12 +23,10 @@ user-stories.md
 
 ## Roadmap
 
-- [ ] Finalise the problem statement and supporting evidence.
-- [ ] Finalise functional and non-functional requirements.
-- [ ] Complete three user stories with acceptance criteria.
-- [ ] Research rule-based expert systems.
-- [ ] Explain the technology and compare an alternative.
-- [ ] Complete the report and GenAI declaration.
+- [x] Complete the problem statement, requirements and user stories.
+- [ ] Research and explain rule-based expert systems.
+- [ ] Complete the GitHub documentation.
+- [ ] Finalise the report, references and GenAI declaration.
 
 ## Status
 
