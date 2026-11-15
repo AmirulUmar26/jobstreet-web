@@ -25,7 +25,7 @@ user-stories.md
 
 - [x] Complete the problem statement, requirements and user stories.
 - [ ] Research and explain rule-based expert systems.
-- [ ] Complete the GitHub documentation.
+- [x] Complete the GitHub documentation.
 - [ ] Finalise the report, references and GenAI declaration.
 
 ## Status
